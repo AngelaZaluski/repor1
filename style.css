@@ -4,7 +4,8 @@ p{
     background-color: aliceblue;
 
 }
-body{background-color: floralwhite;}
+body{background-color: floralwhite;
+text-align: center;}
 h1{color: black;
     background-color: bisque;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
